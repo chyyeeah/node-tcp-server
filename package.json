@@ -1,0 +1,23 @@
+{
+  "name": "node-tcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chyyeeah/node-tcp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chyyeeah/node-tcp-server/issues"
+  },
+  "homepage": "https://github.com/chyyeeah/node-tcp-server#readme",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
